@@ -1,0 +1,27 @@
+{
+  "name": "express-api-with-aws",
+  "version": "1.0.0",
+  "description": "Demo deployment express app with aws",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganeshk750/node-express-api-with-aws.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "aws"
+  ],
+  "author": "ganeshk750",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ganeshk750/node-express-api-with-aws/issues"
+  },
+  "homepage": "https://github.com/Ganeshk750/node-express-api-with-aws#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
